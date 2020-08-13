@@ -7,6 +7,7 @@ h1 {
 }
 p {
     color: red;
+    font: #ccc;
 }
 h2 {
     color: #1c7c64;
