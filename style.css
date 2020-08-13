@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(238, 238, 209);
+}
+
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
+h2 {
+    color: #1c7c64;
+}
+
+.hotpink-header {
+    color: hotpink;
+}
+
+#top {
+    background: green;
+}
+
+a {
+    color: burlywood;
+}
+
+nav a {
+    color: red;
+}
+
+h1#main-title {
+    color: red;
+}
+
+#main-title {
+    color: blueviolet;
+}
+
